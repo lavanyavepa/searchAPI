@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1662" started-at="2015-06-26T07:17:35Z" finished-at="2015-06-26T07:17:37Z">
+  <suite name="Default suite" duration-ms="2231" started-at="2015-06-26T20:22:02Z" finished-at="2015-06-26T20:22:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1662" started-at="2015-06-26T07:17:35Z" finished-at="2015-06-26T07:17:37Z">
-      <class name="ITunesSearchAPITest">
-        <test-method status="PASS" signature="searchValidTerm()[pri:0, instance:ITunesSearchAPITest@2471cca7]" name="searchValidTerm" duration-ms="1642" started-at="2015-06-26T00:17:35Z" finished-at="2015-06-26T00:17:37Z">
+    <test name="Default test" duration-ms="2231" started-at="2015-06-26T20:22:02Z" finished-at="2015-06-26T20:22:04Z">
+      <class name="SearchAPI.ITunesSearchAPITest5">
+        <test-method status="PASS" signature="searchValidTerm()[pri:0, instance:SearchAPI.ITunesSearchAPITest5@1ef7fe8e]" name="searchValidTerm" duration-ms="2212" started-at="2015-06-26T13:22:02Z" finished-at="2015-06-26T13:22:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchValidTerm -->
-      </class> <!-- ITunesSearchAPITest -->
+      </class> <!-- SearchAPI.ITunesSearchAPITest5 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -1,3 +1,4 @@
+package SearchAPI;
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.InputStreamReader;
@@ -9,12 +10,12 @@ import javax.net.ssl.HttpsURLConnection;
 import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 
-public class ITunesSearchAPITest1 {
+public class ITunesSearchAPITest5 {
 
 	@Test
 	public void searchValidTerm()
 	{
-		sendSearchRequest("term=jackson");
+		sendSearchRequest("term=all&25");
 		//TODO - Implement JSON response validation.
 				
 	}
