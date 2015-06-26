@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1662" started-at="2015-06-26T07:17:35Z" finished-at="2015-06-26T07:17:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1662" started-at="2015-06-26T07:17:35Z" finished-at="2015-06-26T07:17:37Z">
+      <class name="ITunesSearchAPITest">
+        <test-method status="PASS" signature="searchValidTerm()[pri:0, instance:ITunesSearchAPITest@2471cca7]" name="searchValidTerm" duration-ms="1642" started-at="2015-06-26T00:17:35Z" finished-at="2015-06-26T00:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidTerm -->
+      </class> <!-- ITunesSearchAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
